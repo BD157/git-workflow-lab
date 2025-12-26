@@ -1,2 +1,3 @@
 # git-workflow-lab
-Practice GIT
+
+Practice GIT Concepts from other online repositories.
