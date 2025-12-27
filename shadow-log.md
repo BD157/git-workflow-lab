@@ -27,3 +27,17 @@
 - Verification:
   - PR #3
 
+
+## Entry 003
+- Source repo: https://github.com/pallets/click
+- Target artifact: Issue → branch → PR → merge
+- Observed pattern:
+  - Work tracked via issues
+  - Branch names reference issue ID
+  - PR closes issue on merge via keyword
+- Local implementation:
+  - Issue #5 delivered via branch + PR + squash merge
+- Verification:
+  - Issue #5, PR #<4>
+
+
